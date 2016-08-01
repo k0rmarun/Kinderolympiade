@@ -1,2 +1,5 @@
 # Kinderolympiade
-Auswertungsprogramm der Kinderolympiade der LG Neckargemünd
+Auswertungsprogramm der Kinderolympiade der LG Neckargemünd.
+
+# Usage:
+
